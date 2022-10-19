@@ -75,7 +75,7 @@ img {
 .section-title {
   position: relative;
   font-size: var(--h2-font-size);
-  color: var(--first-color);
+  color: hsl(339deg 89% 60%);
   margin-top: var(--mb-2);
   margin-bottom: var(--mb-4);
   text-align: center;
@@ -90,7 +90,7 @@ img {
   right: 0;
   margin: auto;
   top: 2rem;
-  background-color: var(--first-color);
+  background-color: hsl(339deg 89% 60%);
 }
 
 .section {
@@ -204,7 +204,7 @@ img {
 }
 
 .home__title-color {
-  color: var(--first-color);
+  color: hsl(339deg 89% 60%);
 }
 
 .home__social {
@@ -231,7 +231,7 @@ img {
 }
 
 .home__blob {
-  fill: var(--first-color);
+  fill: hsl(339deg 89% 60%);
 }
 
 .home__blob-img {
@@ -241,7 +241,7 @@ img {
 /*BUTTONS*/
 .button {
   display: inline-block;
-  background-color: var(--first-color);
+  background-color: hsl(339deg 89% 60%);
   color: #fff;
   padding: .75rem 2.5rem;
   font-weight: var(--font-semi);
